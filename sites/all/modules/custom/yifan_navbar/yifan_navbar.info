@@ -1,0 +1,5 @@
+name		= Yifan Navbar
+description	= Custom navbar by ait24.com
+core		= 7.x
+dependcies	= navbar
+package		= Administration
