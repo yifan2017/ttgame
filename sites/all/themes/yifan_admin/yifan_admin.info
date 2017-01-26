@@ -1,0 +1,4 @@
+name	=	Yifan Admin
+description	=	Admin theme by ait24.com
+core		= 7.x
+base theme	= adminimal	
