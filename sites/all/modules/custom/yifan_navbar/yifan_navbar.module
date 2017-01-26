@@ -5,7 +5,6 @@
          */
 
 function yifan_navbar_page_build(&$page){
-
 	if (user_access('access navbar') ){
 		$module_path = drupal_get_path('module', 'yifan_navbar');
        		drupal_add_css($module_path . '/css/yifan.navbar.css',
