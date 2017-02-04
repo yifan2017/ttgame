@@ -1,0 +1,15 @@
+name = Commerce Rules Extra
+description = Extra Commerce Rules.
+core = 7.x
+php = 5.4
+package = Commerce (contrib)
+dependencies[] = commerce_line_item
+dependencies[] = taxonomy
+dependencies[] = rules
+
+; Information added by Drupal.org packaging script on 2016-08-03
+version = "7.x-2.1+22-dev"
+core = "7.x"
+project = "commerce_rules_extra"
+datestamp = "1470206340"
+
